@@ -274,14 +274,14 @@ PILOT TRAINING
 LOSSES BY TYPE
 ___________________________________________
 Axis Combat_________3851
-Axis Retreat________0
+Axis Retreat________84
 Axis Attrition______3220
-Axis Surrender______0
-Axis Misc.__________0
+Axis Surrender______10
+Axis Misc.__________11
 Soviet Combat_______24569
 Soviet Retreat______40099
 Soviet Attrition____3319
-Soviet Surrender____0
+Soviet Surrender____12
 Soviet Misc.________356
 
 

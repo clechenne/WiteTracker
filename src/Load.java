@@ -13,7 +13,9 @@ public class Load {
 	 * @throws IOException 
 	 */
 	public static void main(String[] args) throws IOException {
-
+		
+		System.out.println("WITETracker v0.1");
+		
 		File  folder = new File ("./");
 		File [] listOfFiles = folder.listFiles();
 
@@ -25,6 +27,7 @@ public class Load {
 		for (File f : listOfFiles) {
 			if (f.getName().indexOf("EventLog(") != -1) {
 				System.out.println("File : " + f.getName());
+				
 				WITEParser wp = new WITEParser(f.getName());
 				Turn turn = wp.parse();		
 				
@@ -32,15 +35,16 @@ public class Load {
 					fw.write(turn.num + ";" 
 							+ turn.date + ";" 
 							+ turn.axisCombat + ";"
-							+ turn.axisSurrender + ";"
-							+ turn.axisAttrition + ";"
-							+ turn.axisMisc + ";"
 							+ turn.axisRetreat + ";"
+							+ turn.axisAttrition + ";"
+							+ turn.axisSurrender + ";"
+							+ turn.axisMisc + ";"
 							+ turn.sovietCombat + ";"
-							+ turn.sovietSurrender + ";"
-							+ turn.sovietAttrition + ";"
-							+ turn.sovietMisc + ";"
 							+ turn.sovietRetreat + ";"
+							+ turn.sovietAttrition + ";"
+							+ turn.sovietSurrender + ";"
+							+ turn.sovietMisc + ";"
+
 							+ CAR_RET);
 					
 				} catch (IOException e) {
