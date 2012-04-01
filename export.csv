@@ -1,2 +1,7 @@
-Num;Date;Axis Combat;Axis Retreat;Axis Attrition;Axis Surrender;Axis Misc.;Soviet Combat;Soviet Retreat;Soviet Attrition;Soviet Surrender;Soviet Misc.;
-2;6-26-1941;3851;0;3220;0;0;24569;0;3319;356;40099;
+Num;Date;Axis Combat;Axis Retreat;Axis Attrition;Axis Surrender;Axis Misc.;Axis turn losses; Axis cum lossesSoviet Combat;Soviet Retreat;Soviet Attrition;Soviet Surrender;Soviet Misc.;Soviet turn losses; Soviet cum losses
+2;6-26-1941;3046;10;3277;0;0;6333;6333;24096;38347;3169;0;404;66016;66016;
+3;7-3-1941;5712;10;5472;0;0;11194;17527;226831;95432;5640;0;404;328307;394323;
+4;7-10-1941;7549;10;6719;0;0;14278;31805;350596;120494;7886;0;404;479380;873703;
+5;7-17-1941;10348;100;7958;0;0;18406;50211;522543;158210;10219;0;404;691376;1565079;
+6;7-24-1941;12042;155;8574;0;0;20771;70982;549349;176678;12683;0;404;739114;2304193;
+7;7-31-1941;15629;188;10051;0;0;25868;96850;601311;217972;16097;0;404;835784;3139977;

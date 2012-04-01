@@ -1,0 +1,338 @@
+Scenario: '1941-45 Campaign'
+Turn 004 7-10-1941 Axis
+
+                      Logistic Phase Event Log
+_____________________________________________________________________
+
+Europe Zone 5 Clear
+South Soviet Zone 6 Clear
+Central Soviet Zone 7 Clear
+North Soviet Zone 9 Clear
+
+
+__________________________________________
+REFIT REPLACEMENT SUB-SEGMENT
+5530 men were returned to Germany's manpower pool
+10269 men are added to Germany's front line units
+200 men were returned to Finland's manpower pool
+131 men are added to Finland's front line units
+360 men were returned to Italy's manpower pool
+1415 men are added to Italy's front line units
+825 men were returned to Rumania's manpower pool
+3855 men are added to Rumania's front line units
+1100 men were returned to Hungary's manpower pool
+2640 men are added to Hungary's front line units
+220 men were returned to Slovakia's manpower pool
+420 men are added to Slovakia's front line units
+
+GROUND ELEMENTS REPLACEMENTS
+___ Germany ___
+Panzer IIc                    : + 3 added to the front line units || - 2 returned to the pool
+Panzer IIIg                   : + 1 added to the front line units || - 0 returned to the pool
+Panzer 38(t)E                 : + 2 added to the front line units || - 1 returned to the pool
+Flamm Panzer II               : + 1 added to the front line units || - 1 returned to the pool
+Stug IIIb                     : + 10 added to the front line units || - 9 returned to the pool
+sIG33                         : + 2 added to the front line units || - 2 returned to the pool
+Panzerjager I                 : + 4 added to the front line units || - 5 returned to the pool
+Support                       : + 421 added to the front line units || - 217 returned to the pool
+SdKfz-10/4 SP Flak            : + 16 added to the front line units || - 8 returned to the pool
+SdKfz-6/2 SP Flak             : + 67 added to the front line units || - 63 returned to the pool
+SdKfz-7/1 SP Flak             : + 2 added to the front line units || - 2 returned to the pool
+37mm Anti-tank Gun            : + 4 added to the front line units || - 3 returned to the pool
+50mm Anti-tank Gun            : + 1 added to the front line units || - 1 returned to the pool
+88mm Anti-aircraft Gun        : + 2 added to the front line units || - 0 returned to the pool
+105mm Field Gun               : + 5 added to the front line units || - 2 returned to the pool
+150mm Howitzer                : + 6 added to the front line units || - 1 returned to the pool
+150mm Nebelwerfer             : + 4 added to the front line units || - 2 returned to the pool
+280/320mm Nebelwerfer         : + 1 added to the front line units || - 1 returned to the pool
+150mm Field Gun               : + 6 added to the front line units || - 1 returned to the pool
+210mm Howitzer                : + 4 added to the front line units || - 0 returned to the pool
+20mm Anti-aircraft Gun        : + 11 added to the front line units || - 1 returned to the pool
+20mm Quad Anti-aircraft Gun   : + 7 added to the front line units || - 2 returned to the pool
+37mm Anti-aircraft Gun        : + 5 added to the front line units || - 0 returned to the pool
+Rifle Squad                   : + 2 added to the front line units || - 1 returned to the pool
+Pioneer Squad                 : + 27 added to the front line units || - 15 returned to the pool
+Labor Squad                   : + 42 added to the front line units || - 16 returned to the pool
+___ Finland ___
+7.62mm Machine Gun            : + 4 added to the front line units || - 0 returned to the pool
+Support                       : + 5 added to the front line units || - 13 returned to the pool
+40mm Anti-aircraft Gun        : + 1 added to the front line units || - 0 returned to the pool
+___ Italy ___
+8mm Machine Gun               : + 1 added to the front line units || - 0 returned to the pool
+Support                       : + 70 added to the front line units || - 13 returned to the pool
+Assault Engineer Squad        : + 1 added to the front line units || - 0 returned to the pool
+___ Rumania ___
+8mm Machine Gun               : + 2 added to the front line units || - 0 returned to the pool
+Support                       : + 189 added to the front line units || - 19 returned to the pool
+81mm Mortar                   : + 1 added to the front line units || - 0 returned to the pool
+105mm Howitzer                : + 3 added to the front line units || - 1 returned to the pool
+13.2mm Anti-aircraft MG       : + 1 added to the front line units || - 0 returned to the pool
+Rifle Squad                   : + 2 added to the front line units || - 1 returned to the pool
+___ Hungary ___
+Support                       : + 101 added to the front line units || - 22 returned to the pool
+149mm Howitzer                : + 1 added to the front line units || - 0 returned to the pool
+40mm Anti-aircraft Gun        : + 87 added to the front line units || - 0 returned to the pool
+___ Slovakia ___
+Support                       : + 21 added to the front line units || - 4 returned to the pool
+
+26 damaged AFVs were returned to the pool
+8 damaged AFVs were not repairable
+__________________________________________
+NORMAL REPLACEMENT SUB-SEGMENT
+22247 men were returned to Germany's manpower pool
+19321 men are added to Germany's front line units
+2064 men were returned to Finland's manpower pool
+2417 men are added to Finland's front line units
+708 men were returned to Italy's manpower pool
+528 men are added to Italy's front line units
+3456 men were returned to Rumania's manpower pool
+8 men are added to Rumania's front line units
+5073 men were returned to Hungary's manpower pool
+265 men are added to Hungary's front line units
+85 men were returned to Slovakia's manpower pool
+14 men are added to Slovakia's front line units
+
+GROUND ELEMENTS REPLACEMENTS
+___ Germany ___
+Panzer Ib                     : + 1 added to the front line units || - 3 returned to the pool
+Panzer IIc                    : + 11 added to the front line units || - 35 returned to the pool
+Panzer IIf                    : + 3 added to the front line units || - 0 returned to the pool
+Panzer IIIe                   : + 8 added to the front line units || - 11 returned to the pool
+Panzer IIIg                   : + 15 added to the front line units || - 21 returned to the pool
+Panzer IIIh                   : + 4 added to the front line units || - 10 returned to the pool
+Panzer 35(t)                  : + 0 added to the front line units || - 3 returned to the pool
+Panzer 38(t)                  : + 3 added to the front line units || - 8 returned to the pool
+Panzer 38(t)E                 : + 8 added to the front line units || - 9 returned to the pool
+Panzer IIIj L/42              : + 13 added to the front line units || - 0 returned to the pool
+Panzer IVc                    : + 0 added to the front line units || - 6 returned to the pool
+Panzer IVe                    : + 11 added to the front line units || - 15 returned to the pool
+Stug IIIb                     : + 0 added to the front line units || - 2 returned to the pool
+SdKfz-222 Armored Car         : + 2 added to the front line units || - 5 returned to the pool
+SdKfz-231 Armored Car         : + 17 added to the front line units || - 12 returned to the pool
+SdKfz-221 Armored Car         : + 12 added to the front line units || - 7 returned to the pool
+7.92mm Anti-tank Rifle        : + 172 added to the front line units || - 68 returned to the pool
+7.92mm Machine Gun            : + 129 added to the front line units || - 86 returned to the pool
+50mm Mortar                   : + 146 added to the front line units || - 74 returned to the pool
+Support                       : + 300 added to the front line units || - 246 returned to the pool
+Panzer Grenadier Squad        : + 8 added to the front line units || - 7 returned to the pool
+SdKfz-10/4 SP Flak            : + 0 added to the front line units || - 4 returned to the pool
+SdKfz-6/2 SP Flak             : + 0 added to the front line units || - 5 returned to the pool
+SdKfz-7/1 SP Flak             : + 2 added to the front line units || - 0 returned to the pool
+SdKfz-251/10 Halftrack        : + 0 added to the front line units || - 2 returned to the pool
+SdKfz-251/1 MG Carrier        : + 0 added to the front line units || - 2 returned to the pool
+SdKfz-251/2 Mortar Carrier    : + 0 added to the front line units || - 4 returned to the pool
+81mm Mortar                   : + 96 added to the front line units || - 36 returned to the pool
+37mm Anti-tank Gun            : + 108 added to the front line units || - 61 returned to the pool
+50mm Anti-tank Gun            : + 76 added to the front line units || - 1 returned to the pool
+88mm Anti-aircraft Gun        : + 2 added to the front line units || - 8 returned to the pool
+105mm Field Gun               : + 3 added to the front line units || - 1 returned to the pool
+75mm Field Gun                : + 2 added to the front line units || - 2 returned to the pool
+105mm Howitzer                : + 34 added to the front line units || - 20 returned to the pool
+150mm Howitzer                : + 15 added to the front line units || - 9 returned to the pool
+20mm Anti-aircraft Gun        : + 8 added to the front line units || - 18 returned to the pool
+28mm Anti-tank Gun            : + 16 added to the front line units || - 2 returned to the pool
+150mm Infantry Gun            : + 22 added to the front line units || - 6 returned to the pool
+75mm Infantry Gun             : + 56 added to the front line units || - 20 returned to the pool
+Rifle Squad                   : + 235 added to the front line units || - 92 returned to the pool
+Cavalry Squad                 : + 248 added to the front line units || - 10 returned to the pool
+Motorized Rifle Squad         : + 29 added to the front line units || - 28 returned to the pool
+Motorized Rifle Squad (+)     : + 43 added to the front line units || - 24 returned to the pool
+Pioneer Squad                 : + 158 added to the front line units || - 37 returned to the pool
+Motorcycle Squad              : + 45 added to the front line units || - 23 returned to the pool
+Security Squad                : + 80 added to the front line units || - 2 returned to the pool
+Labor Squad                   : + 5 added to the front line units || - 1 returned to the pool
+___ Finland ___
+20mm Anti-tank Rifle          : + 6 added to the front line units || - 0 returned to the pool
+7.62mm Machine Gun            : + 20 added to the front line units || - 3 returned to the pool
+Support                       : + 56 added to the front line units || - 30 returned to the pool
+81mm Mortar                   : + 23 added to the front line units || - 0 returned to the pool
+37mm Anti-tank Gun            : + 6 added to the front line units || - 1 returned to the pool
+150mm Howitzer                : + 2 added to the front line units || - 0 returned to the pool
+20mm Anti-aircraft Gun        : + 19 added to the front line units || - 0 returned to the pool
+120mm Mortar                  : + 1 added to the front line units || - 0 returned to the pool
+Rifle Squad                   : + 58 added to the front line units || - 7 returned to the pool
+Combat Engineer Squad         : + 23 added to the front line units || - 0 returned to the pool
+Submachine Gun Squad          : + 6 added to the front line units || - 1 returned to the pool
+___ Italy ___
+8mm Machine Gun               : + 11 added to the front line units || - 0 returned to the pool
+45mm Mortar                   : + 10 added to the front line units || - 1 returned to the pool
+Support                       : + 6 added to the front line units || - 8 returned to the pool
+81mm Mortar                   : + 8 added to the front line units || - 1 returned to the pool
+47mm Anti-tank Gun            : + 5 added to the front line units || - 0 returned to the pool
+75mm Field Gun                : + 3 added to the front line units || - 0 returned to the pool
+100mm Howitzer                : + 5 added to the front line units || - 0 returned to the pool
+20mm Anti-aircraft Gun        : + 2 added to the front line units || - 0 returned to the pool
+65mm Infantry Gun             : + 4 added to the front line units || - 0 returned to the pool
+Rifle Squad                   : + 10 added to the front line units || - 7 returned to the pool
+Assault Engineer Squad        : + 6 added to the front line units || - 0 returned to the pool
+___ Rumania ___
+CKD-R2                        : + 0 added to the front line units || - 1 returned to the pool
+R-35                          : + 0 added to the front line units || - 1 returned to the pool
+8mm Machine Gun               : + 0 added to the front line units || - 18 returned to the pool
+60mm Mortar                   : + 0 added to the front line units || - 9 returned to the pool
+Support                       : + 0 added to the front line units || - 25 returned to the pool
+81mm Mortar                   : + 0 added to the front line units || - 3 returned to the pool
+37mm Anti-tank Gun            : + 0 added to the front line units || - 2 returned to the pool
+47mm Anti-tank Gun            : + 0 added to the front line units || - 4 returned to the pool
+75mm Field Gun                : + 0 added to the front line units || - 7 returned to the pool
+100mm Howitzer                : + 1 added to the front line units || - 4 returned to the pool
+13.2mm Anti-aircraft MG       : + 0 added to the front line units || - 3 returned to the pool
+25mm Anti-aircraft Gun        : + 0 added to the front line units || - 2 returned to the pool
+Rifle Squad                   : + 0 added to the front line units || - 24 returned to the pool
+Cavalry Squad                 : + 0 added to the front line units || - 10 returned to the pool
+Assault Squad                 : + 0 added to the front line units || - 15 returned to the pool
+___ Hungary ___
+CV-33                         : + 0 added to the front line units || - 1 returned to the pool
+Toldi II                      : + 4 added to the front line units || - 0 returned to the pool
+39M CSABA Armored Car         : + 1 added to the front line units || - 0 returned to the pool
+20mm Anti-tank Rifle          : + 2 added to the front line units || - 0 returned to the pool
+8mm Machine Gun               : + 4 added to the front line units || - 2 returned to the pool
+50mm Mortar                   : + 8 added to the front line units || - 0 returned to the pool
+Support                       : + 0 added to the front line units || - 37 returned to the pool
+81mm Mortar                   : + 0 added to the front line units || - 1 returned to the pool
+37mm Anti-tank Gun            : + 1 added to the front line units || - 0 returned to the pool
+100mm Howitzer                : + 1 added to the front line units || - 0 returned to the pool
+149mm Howitzer                : + 1 added to the front line units || - 0 returned to the pool
+105mm Howitzer                : + 1 added to the front line units || - 0 returned to the pool
+75mm Field Gun                : + 1 added to the front line units || - 0 returned to the pool
+75mm Howitzer                 : + 1 added to the front line units || - 1 returned to the pool
+13.2mm Anti-aircraft MG       : + 1 added to the front line units || - 0 returned to the pool
+40mm Anti-aircraft Gun        : + 1 added to the front line units || - 0 returned to the pool
+Rifle Squad                   : + 10 added to the front line units || - 14 returned to the pool
+Cavalry Squad                 : + 1 added to the front line units || - 0 returned to the pool
+Combat Engineer Squad         : + 2 added to the front line units || - 0 returned to the pool
+Motorcycle Squad              : + 1 added to the front line units || - 0 returned to the pool
+___ Slovakia ___
+LT-40 - MG                    : + 2 added to the front line units || - 1 returned to the pool
+LT vz.35                      : + 0 added to the front line units || - 1 returned to the pool
+LT-38                         : + 2 added to the front line units || - 1 returned to the pool
+Support                       : + 0 added to the front line units || - 2 returned to the pool
+Rifle Squad                   : + 0 added to the front line units || - 3 returned to the pool
+
+118 damaged AFVs were returned to the pool
+55 damaged AFVs were not repairable
+
+4390 tons of ammo delivered to front line units
+
+
+
+
+LI Corps ARRIVED at 1,59 (men 5000, guns 0, afv 0)
+79th Infantry Division ARRIVED at 1,59 (men 16982, guns 200, afv 0)
+95th Infantry Division ARRIVED at 1,59 (men 16978, guns 200, afv 0)
+60th Motorized Division ARRIVED at 1,73 (men 14378, guns 205, afv 0)
+245th Stug Battalion ARRIVED (men 284, guns 0, afv 21)
+Mobile Hun. Corps in hex 49,94 is no longer frozen
+1st Hun. Air Base in hex 40,93 is no longer frozen
+2nd Hun. Air Base in hex 40,96 is no longer frozen
+1st Hun. Motorized Brigade in hex 49,94 is no longer frozen
+2nd Hun. Motorized Brigade in hex 50,94 is no longer frozen
+1st Hun. Cavalry Brigade in hex 50,95 is no longer frozen
+VIII Hun. Corps in hex 44,90 is no longer frozen
+1/2nd Fin. Infantry Division in hex 77,4 is no longer frozen
+2/2nd Fin. Infantry Division in hex 77,4 is no longer frozen
+3/2nd Fin. Infantry Division in hex 77,3 is no longer frozen
+15th Fin. Infantry Division in hex 76,5 is no longer frozen
+1st Fin. Infantry Division in hex 77,0 is no longer frozen
+VII Fin. Corps in hex 78,2 is no longer frozen
+7th Fin. Infantry Division in hex 78,1 is no longer frozen
+19th Fin. Infantry Division in hex 78,2 is no longer frozen
+VI Fin. Corps in hex 78,0 is no longer frozen
+5th Fin. Infantry Division in hex 79,0 is no longer frozen
+11th Fin. Infantry Division in hex 79,0 is no longer frozen
+1st Fin. Jaeger Brigade in hex 78,0 is no longer frozen
+I Fin. Corps ARRIVED at 72,0 (men 5000, guns 0, avf 0)
+1st Hun. Mountain Brigade in hex 48,92 is no longer frozen
+1st Royal HAF Field Bde  in hex 39,93 is no longer frozen
+1/163rd (German) Fin. Infantry Division in hex 77,0 is no longer frozen
+2/163rd (German) Fin. Infantry Division in hex 77,0 is no longer frozen
+II./KG 76 (Ju 88A) ARRIVED to the NATIONAL RESERVE
+III./KG 76 (Ju 88A) ARRIVED to the NATIONAL RESERVE
+Stab/KG 28 (He 111H-4) ARRIVED to the NATIONAL RESERVE
+I./KG 28 (He 111H-4) ARRIVED to the NATIONAL RESERVE
+III./KG 26 (He 111H-4) ARRIVED to the NATIONAL RESERVE
+1.(H)/14 (FW 189A) ARRIVED to the NATIONAL RESERVE
+
+V Fliegerkorps  commander ~ Robert von Greim ~ is promoted to Generaloberst !!!
+
+Stab/StG 77 air group upgraded planes from Ju 87B to Ju 87D
+
+2010 trucks were lost this turn during unit movement
+5539 trucks have been lost during the campaign due to unit movement
+813 trucks were lost performing unit resupply operations
+3248 trucks were damaged performing unit resupply operations
+2466 supply trucks have been lost during the campaign
+5698 trucks were repaired and returned to the logistics pool
+
+Carpathian Army Group  WITHDRAWS (men 20000, guns 0, afv 0)
+
+
+AIRCRAFT EXPORTS
+1 x He 111H-3 exported from Germany to Rumania as He 111H-3(R)
+__________________________________________
+PRODUCTION
+ 
+Scenario production usage: German 100%, Axis Allies 100%, Soviet 100%
+ 
+30500 tons of OIL produced in 96 oil centers
+   27300 tons of OIL consumed by FUEL production
+ 
+189000 tons of RESOURCES produced in 189 resource centers
+   107000 tons of RESOURCES consumed by ALL production
+ 
+66900 tons of SUPPLIES produced in 168 heavy industry centers
+   25543 tons of SUPPLIES consumed by ALL production
+0 HI locations didn't have enough resources
+ 
+19625 tons of SYNTHETIC FUEL produced in 46 synthetic fuel centers
+   23000 tons of RESOURCES consumed by synthetic fuel production
+0 SYNTHETIC FUEL factory locations didn't have enough resources
+ 
+25950 tons of FUEL produced in 91 fuel refineries
+   27300 tons of OIL consumed by fuel production
+0 FUEL factory locations didn't have enough oil
+ 
+2600 VEHICLES produced in 318 vehicle factories
+   13000 tons of SUPPLIES consumed by vehicle production
+0 VEHICLE factory locations didn't have enough supplies
+ 
+147 AIRCRAFT produced in 201 aircraft factories
+   6100 tons of SUPPLIES consumed by aircraft production
+0 AIRCRAFT factory locations didn't have enough supplies
+ 
+228 GROUND ELEMENTS produced in 308 ground element factories
+   1193 tons of SUPPLIES consumed by ground element production
+0 GROUND ELEMENT factory locations didn't have enough supplies
+ 
+26250 ARMAMENTS produced in 145 armaments factories
+   5250 tons of SUPPLIES consumed by armaments production
+0 ARMAMENTS factory locations didn't have enough supplies
+ 
+24398 MANPOWER added to national pool(s) from 3879 manpower centers
+ 
+
+__________________________________________
+PILOT TRAINING
+ 
+161 training missions were flown
+17 aircraft were damaged flying training missions
+3 aircraft were destroyed flying training missions
+
+LOSSES BY TYPE
+___________________________________________
+Axis Combat_________7549
+Axis Retreat________10
+Axis Attrition______6719
+Axis Surrender______0
+Axis Misc.__________0
+Soviet Combat_______350596
+Soviet Retreat______120494
+Soviet Attrition____7886
+Soviet Surrender____0
+Soviet Misc.________404
+
+
+___________________________________________
+File Version:  1.06.04
+
+
